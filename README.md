@@ -1,25 +1,29 @@
 # udacity-starbucks
-FInal project of Udacity Data  Science course
+Final project of Udacity Data  Science course
 
 
 <b>Table of Contents</b>
 1. Description
 2. Dependencies
 3. Program execution
-4. Screenshots
+4. Others
 
 
 <b> 1. Description </b><br>
-This project is a part of Udacity course. The aim of this project was to create disaster response clasificator.
+This project is a part of Udacity course. The aim of this project was to analyze Purchasing decissions of Starbucks clients.
 
-In data/process_data.py I joined csv files and create database. <br>
-In models/train_classifier.py I perform feature engineering, create ML pipeline and built model.  <br>
-In app/run.py fronted has been created and model shared using Flask.  <br>
+In [feature_engineering.ipynb](https://github.com/malowana/udacity-starbucks/blob/main/feature_engineering.ipynb) I familiarized with json files, created new features and joined all files to one. <br>
+In [Starbucks_analysis.ipynb](https://github.com/malowana/udacity-starbucks/blob/main/Starbucks_analysis.ipynb) I made an analysis used in the Medium article.  <br>
  <br>
 
 <b> 2. Dependencies </b><br>
 Needed libraries: <br>
-NumPy, SciPy, Pandas, Sciki-Learn, NLTK, SQLalchemy, Pickle, Flask, Plotly <br>
+NumPy, Pandas, Matplotlib, Math <br>
 <br>
 
 <b> 3. Program execution </b><br>
+Clone project using path and open it in jupyter notebook <br><pre>https://github.com/malowana/udacity-starbucks.git</pre>
+<br>
+
+<b> 4. Others </b><br>
+Results were also presented as blogpost on [Medium](https://medium.com/@malowana1994/purchasing-decissions-of-starbucks-clients-95a34f2e0071)
