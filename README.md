@@ -10,7 +10,7 @@ Final project of Udacity Data  Science course
 
 
 <b> 1. Description </b><br>
-This project is a part of Udacity course. The aim of this project was to analyze Purchasing decissions of Starbucks clients.
+This project is a part of Udacity course. The aim of this project was to analyze Purchasing decissions of Starbucks clients, familiarize with data. Moreover, final part was to create ML model, which will predict if user who receive bogo or discount offer will complete it or not in time
 
 In [feature_engineering.ipynb](https://github.com/malowana/udacity-starbucks/blob/main/feature%20engineering.ipynb) I familiarized with json files, created new features and joined all files to one. <br>
 In [Starbucks_analysis.ipynb](https://github.com/malowana/udacity-starbucks/blob/main/Starbucks_analysis.ipynb) I made an analysis used in the Medium article.  <br>
